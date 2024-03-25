@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(223, 35, 123);
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+h1, h2, span{    
+    font-weight: bold;
+    color: darkblue;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+    background-color: blue;
+    font-size: 1.25rem;
+    transition: 0.5s;
+    cursor: pointer;
+}
+a:visited{
+    color: white;
+}
